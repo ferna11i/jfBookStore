@@ -1,0 +1,16 @@
+C:\Johan\Workspace\C#\Agile\jfLoginPage\UnitTestLoginPage\bin\Debug\BookStoreLIB.dll.config
+C:\Johan\Workspace\C#\Agile\jfLoginPage\UnitTestLoginPage\bin\Debug\BookStoreLIB.dll
+C:\Johan\Workspace\C#\Agile\jfLoginPage\UnitTestLoginPage\bin\Debug\BookStoreLIB.pdb
+C:\Johan\Workspace\C#\Agile\jfLoginPage\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Johan\Workspace\C#\Agile\jfLoginPage\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Johan\Workspace\C#\Agile\jfLoginPage\UnitTestLoginPage\obj\Debug\BookStoreLIB.csprojResolveAssemblyReference.cache
+C:\Johan\Workspace\C#\Agile\jfLoginPage\UnitTestLoginPage\obj\Debug\BookStoreLIB.dll
+C:\Johan\Workspace\C#\Agile\jfLoginPage\UnitTestLoginPage\obj\Debug\BookStoreLIB.pdb
+C:\Johan\Workspace\C#\Agile\jfBookStore\BookStoreLIB\bin\Debug\BookStoreLIB.dll.config
+C:\Johan\Workspace\C#\Agile\jfBookStore\BookStoreLIB\bin\Debug\BookStoreLIB.dll
+C:\Johan\Workspace\C#\Agile\jfBookStore\BookStoreLIB\bin\Debug\BookStoreLIB.pdb
+C:\Johan\Workspace\C#\Agile\jfBookStore\BookStoreLIB\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Johan\Workspace\C#\Agile\jfBookStore\BookStoreLIB\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Johan\Workspace\C#\Agile\jfBookStore\BookStoreLIB\obj\Debug\BookStoreLIB.csprojResolveAssemblyReference.cache
+C:\Johan\Workspace\C#\Agile\jfBookStore\BookStoreLIB\obj\Debug\BookStoreLIB.dll
+C:\Johan\Workspace\C#\Agile\jfBookStore\BookStoreLIB\obj\Debug\BookStoreLIB.pdb
