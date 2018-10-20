@@ -21,6 +21,8 @@ C:\Johan\Workspace\C#\Agile\jfLoginPage\jfLoginPage\obj\Debug\BookStoreGUI.Prope
 C:\Johan\Workspace\C#\Agile\jfLoginPage\jfLoginPage\obj\Debug\BookStoreGUI.csproj.GenerateResource.Cache
 C:\Johan\Workspace\C#\Agile\jfLoginPage\jfLoginPage\obj\Debug\BookStoreGUI.exe
 C:\Johan\Workspace\C#\Agile\jfLoginPage\jfLoginPage\obj\Debug\BookStoreGUI.pdb
+C:\Johan\Workspace\C#\Agile\jfBookStore\jfBookStore\bin\Debug\xyBookstoreDB.mdf
+C:\Johan\Workspace\C#\Agile\jfBookStore\jfBookStore\bin\Debug\xyBookstoreDB_log.ldf
 C:\Johan\Workspace\C#\Agile\jfBookStore\jfBookStore\bin\Debug\JFdatabase.mdf
 C:\Johan\Workspace\C#\Agile\jfBookStore\jfBookStore\bin\Debug\JFdatabase_log.ldf
 C:\Johan\Workspace\C#\Agile\jfBookStore\jfBookStore\bin\Debug\BookStoreGUI.exe.config

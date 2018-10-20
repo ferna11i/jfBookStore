@@ -5,3 +5,12 @@ C:\Johan\Workspace\C#\Agile\jfLoginPage\UnitTestLoginPage\bin\Release\Microsoft.
 C:\Johan\Workspace\C#\Agile\jfLoginPage\UnitTestLoginPage\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
 C:\Johan\Workspace\C#\Agile\jfLoginPage\UnitTestLoginPage\obj\Release\UnitTestLoginPage.dll
 C:\Johan\Workspace\C#\Agile\jfLoginPage\UnitTestLoginPage\obj\Release\UnitTestLoginPage.pdb
+C:\Johan\Workspace\C#\Agile\jfBookStore\BookStoreLIB\bin\Release\xyBookstoreDB.mdf
+C:\Johan\Workspace\C#\Agile\jfBookStore\BookStoreLIB\bin\Release\xyBookstoreDB_log.ldf
+C:\Johan\Workspace\C#\Agile\jfBookStore\BookStoreLIB\bin\Release\BookStoreLIB.dll.config
+C:\Johan\Workspace\C#\Agile\jfBookStore\BookStoreLIB\bin\Release\BookStoreLIB.dll
+C:\Johan\Workspace\C#\Agile\jfBookStore\BookStoreLIB\bin\Release\BookStoreLIB.pdb
+C:\Johan\Workspace\C#\Agile\jfBookStore\BookStoreLIB\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Johan\Workspace\C#\Agile\jfBookStore\BookStoreLIB\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Johan\Workspace\C#\Agile\jfBookStore\BookStoreLIB\obj\Release\BookStoreLIB.dll
+C:\Johan\Workspace\C#\Agile\jfBookStore\BookStoreLIB\obj\Release\BookStoreLIB.pdb

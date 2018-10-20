@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Johan\Workspace\C#\Agile\jfLoginPage\jfLoginPage\obj\Release\
+C:\Johan\Workspace\C#\Agile\jfBookStore\jfBookStore\obj\Release\
 BookStoreGUI
 none
 false
 TRACE
-C:\Johan\Workspace\C#\Agile\jfLoginPage\jfLoginPage\App.xaml
-1-1158790798
+C:\Johan\Workspace\C#\Agile\jfBookStore\jfBookStore\App.xaml
+3436067559
 21369744754
-51692956928
-14-2123611148
-LogInDialog.xaml;
+7-1873745866
+14-1530843894
+LoginDialog.xaml;MainWindow.xaml;OrderItemDialog.xaml;
 
 False
 
